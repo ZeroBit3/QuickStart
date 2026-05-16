@@ -26,3 +26,4 @@
 1. 修改结尾的目标网址。
 2. 修改 `--profile-directory="Profile X"` 中的序号，以匹配你想要的 Chrome 配置文件（对应不同的 Google 账号）。
 3. 确保脚本中的 `chrome.exe` 路径与你本机的实际安装路径一致。
+4. 项目中只有Gemini.bat使用了Chrome，其余使用Brave，因此参考不同配置用法可以看Gemini.bat

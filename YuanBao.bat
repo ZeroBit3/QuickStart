@@ -1,2 +1,2 @@
 @echo off
-start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 1" https://yuanbao.tencent.com/chat/
+start "" "C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" https://yuanbao.tencent.com/chat/
